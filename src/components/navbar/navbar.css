@@ -1,0 +1,16 @@
+nav{
+    background-color: #fff;
+    color: black;
+    width: 75rem;
+    height:2.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width:680px){
+    nav{
+        display: flex;
+        flex-direction: column;
+        width: auto;
+    }
+}

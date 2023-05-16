@@ -1,0 +1,19 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.App {
+  text-align: center;
+  background-color: #ccc6c6;
+  height: 100vh;
+  padding: 1rem 1rem;
+}
+
+button{
+  background-color: #b77908;
+  padding: 10px 10px;
+  cursor: pointer;
+  border:none;
+}
