@@ -11,7 +11,7 @@ const Home = () => {
         
 
         <div className="anothercomponent">
-            <p>This is another component but the intruction was to code out two component</p>
+            <p>This is another component but the intruction was to code out two components</p>
         </div>
         
         
